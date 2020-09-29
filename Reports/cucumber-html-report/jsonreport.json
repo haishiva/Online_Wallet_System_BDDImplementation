@@ -1,0 +1,555 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-09-29T18:57:15.372Z",
+        "line": 2,
+        "name": "To Test The Add Money Functionality",
+        "description": "",
+        "id": "to-test-the-online-wallet-application;to-test-the-add-money-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 11618000000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "To Launch The browser and navigate the url",
+            "match": {
+              "location": "com.step_definition.OnlineWalletAddMoneySteps.to_Launch_The_browser_and_navigate_the_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 564000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To Enter The username  and password",
+            "match": {
+              "location": "com.step_definition.OnlineWalletAddMoneySteps.to_Enter_The_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 133000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To Click On submit button",
+            "match": {
+              "location": "com.step_definition.OnlineWalletAddMoneySteps.to_Click_On_submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 308000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To Select The Add Money Option",
+            "match": {
+              "location": "com.step_definition.OnlineWalletAddMoneySteps.to_Select_The_Add_Money_Option()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 270000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Enter The AccountId and Amount",
+            "match": {
+              "location": "com.step_definition.OnlineWalletAddMoneySteps.to_Enter_The_AccountId_and_Amount()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 573000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To Click on Submit button",
+            "match": {
+              "location": "com.step_definition.OnlineWalletAddMoneySteps.to_Click_on_Submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To Warn If Add Money Fails",
+            "match": {
+              "location": "com.step_definition.OnlineWalletAddMoneySteps.to_Warn_If_Add_Money_Fails()"
+            },
+            "keyword": "But "
+          },
+          {
+            "result": {
+              "duration": 846000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "To Take The screenshot and get title",
+            "match": {
+              "location": "com.step_definition.OnlineWalletAddMoneySteps.to_Take_The_screenshot_and_get_title()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Test The Online Wallet Application",
+    "description": "",
+    "id": "to-test-the-online-wallet-application",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/AddMoney.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-09-29T18:57:29.866Z",
+        "line": 2,
+        "name": "Succesful Login with credentials",
+        "description": "",
+        "id": "to-test-the-online-wallet-application;succesful-login-with-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 27145000000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "To Launch the browser and navigate to url",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Launch_the_browser_and_navigate_to_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 440000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To Enter username and password",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Enter_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 112000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To Click on submit button",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Click_on_submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To Warn if login fails",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Warn_if_login_fails()"
+            },
+            "keyword": "But "
+          },
+          {
+            "result": {
+              "duration": 1309000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Take the screenshot and get title",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Take_the_screenshot_and_get_title()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Test The Online Wallet Application",
+    "description": "",
+    "id": "to-test-the-online-wallet-application",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/TestCase1.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-09-29T18:57:58.916Z",
+        "line": 2,
+        "name": "To Test The Transfer Details Functionality",
+        "description": "",
+        "id": "to-test-the-online-wallet-application;to-test-the-transfer-details-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12259000000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "To Launch the browser and navigate to url",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Launch_the_browser_and_navigate_to_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 451000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To Enter username and password",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Enter_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 134000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To Click on submit button",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Click_on_submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To Warn if login fails",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Warn_if_login_fails()"
+            },
+            "keyword": "But "
+          },
+          {
+            "result": {
+              "duration": 191000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Select Transaction Details Option",
+            "match": {
+              "location": "com.step_definition.OnlineWalletTransactionDetailsSteps.to_Select_Transaction_Details_Option()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4816000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Get The screenshot and get title",
+            "match": {
+              "location": "com.step_definition.OnlineWalletTransactionDetailsSteps.get_The_screenshot_and_get_title()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Test The Online Wallet Application",
+    "description": "",
+    "id": "to-test-the-online-wallet-application",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/TransactionDetails.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-09-29T18:58:16.802Z",
+        "line": 2,
+        "name": "To Test The Transfer Money Functionality",
+        "description": "",
+        "id": "to-test-the-online-wallet-application;to-test-the-transfer-money-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8443000000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "To Launch the browser and navigate to url",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Launch_the_browser_and_navigate_to_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 474000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To Enter username and password",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Enter_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 171000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To Click on submit button",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Click_on_submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To Warn if login fails",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Warn_if_login_fails()"
+            },
+            "keyword": "But "
+          },
+          {
+            "result": {
+              "duration": 315000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Select The Transfer Money option",
+            "match": {
+              "location": "com.step_definition.OnlineWalletTransferMoneySteps.to_Select_The_Transfer_Money_option()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 532000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To Enter The AccountId and Receiver AccountId and Amount",
+            "match": {
+              "location": "com.step_definition.OnlineWalletTransferMoneySteps.to_Enter_The_AccountId_and_Receiver_AccountId_and_Amount()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 530000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To submit the details",
+            "match": {
+              "location": "com.step_definition.OnlineWalletTransferMoneySteps.to_submit_the_details()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "To Warn if Transfer fails",
+            "match": {
+              "location": "com.step_definition.OnlineWalletTransferMoneySteps.to_Warn_if_Transfer_fails()"
+            },
+            "keyword": "But "
+          },
+          {
+            "result": {
+              "duration": 917000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Take the screenshot",
+            "match": {
+              "location": "com.step_definition.OnlineWalletTransferMoneySteps.take_the_screenshot()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Test The Online Wallet Application",
+    "description": "",
+    "id": "to-test-the-online-wallet-application",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/TransferMoney.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-09-29T18:58:28.203Z",
+        "line": 2,
+        "name": "To Test The View Balance Functionality",
+        "description": "",
+        "id": "to-test-the-online-wallet-application;to-test-the-view-balance-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9897000000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "To Launch the browser and navigate to url",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Launch_the_browser_and_navigate_to_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 397000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To Enter username and password",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Enter_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 166000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To Click on submit button",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Click_on_submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To Warn if login fails",
+            "match": {
+              "location": "com.step_definition.OnlineWalletLoginSteps.to_Warn_if_login_fails()"
+            },
+            "keyword": "But "
+          },
+          {
+            "result": {
+              "duration": 247000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Select The View Balance option",
+            "match": {
+              "location": "com.step_definition.OnlineWalletViewBalanceSteps.to_Select_The_View_Balance_option()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 171000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To Enter The AccountId",
+            "match": {
+              "location": "com.step_definition.OnlineWalletViewBalanceSteps.to_Enter_The_AccountId()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 127000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To Click On Submit Button",
+            "match": {
+              "location": "com.step_definition.OnlineWalletViewBalanceSteps.to_Click_On_Submit_Button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "To Warn if View Balance fails",
+            "match": {
+              "location": "com.step_definition.OnlineWalletViewBalanceSteps.to_Warn_if_View_Balance_fails()"
+            },
+            "keyword": "But "
+          },
+          {
+            "result": {
+              "duration": 4864000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "To Take the screenshot and get the title",
+            "match": {
+              "location": "com.step_definition.OnlineWalletViewBalanceSteps.to_Take_the_screenshot_and_get_the_title()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Test The Online Wallet Application",
+    "description": "",
+    "id": "to-test-the-online-wallet-application",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/ViewBalance.feature",
+    "tags": []
+  }
+]

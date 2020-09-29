@@ -1,0 +1,6 @@
+browser = chrome
+url = http://localhost:4200/
+
+#login cridentials 
+userid = 10000
+password = Shiva@123

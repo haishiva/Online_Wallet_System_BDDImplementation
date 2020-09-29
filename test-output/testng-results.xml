@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18562" started-at="2020-09-29T17:05:40Z" finished-at="2020-09-29T17:05:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18562" started-at="2020-09-29T17:05:40Z" finished-at="2020-09-29T17:05:59Z">
+      <class name="com.testcases.OnlineWalletAddMoneyPageTestCase">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.testcases.OnlineWalletAddMoneyPageTestCase@2f3c6ac4]" name="launchApp" is-config="true" duration-ms="15298" started-at="2020-09-29T22:35:40Z" finished-at="2020-09-29T22:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="addMoney()[pri:0, instance:com.testcases.OnlineWalletAddMoneyPageTestCase@2f3c6ac4]" name="addMoney" duration-ms="1186" started-at="2020-09-29T22:35:56Z" finished-at="2020-09-29T22:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMoney -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcases.OnlineWalletAddMoneyPageTestCase@2f3c6ac4]" name="close" is-config="true" duration-ms="1446" started-at="2020-09-29T22:35:57Z" finished-at="2020-09-29T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.testcases.OnlineWalletAddMoneyPageTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,621 @@
+2020-09-28 18:15:56,842 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-28 18:16:08,951 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-28 18:18:27,289 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-28 18:18:34,500 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-28 18:18:45,667 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-28 18:18:45,670 [main] INFO com.base_class.Library - Browser Launched
+2020-09-28 18:18:46,659 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-28 18:18:48,937 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-28 18:18:48,965 [main] INFO com.base_class.Library - Closing Browser
+2020-09-28 18:19:21,397 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-28 18:19:28,253 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-28 18:19:34,030 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-28 18:19:34,031 [main] INFO com.base_class.Library - Browser Launched
+2020-09-28 18:19:34,886 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-28 18:19:35,799 [main] INFO com.base_class.Library - Closing Browser
+2020-09-28 19:45:35,553 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-28 19:45:42,340 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-28 19:45:47,161 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-28 19:45:47,162 [main] INFO com.base_class.Library - Browser Launched
+2020-09-28 19:45:47,899 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-28 19:45:49,012 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 16:29:19,962 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 16:29:30,341 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 16:29:35,791 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 16:29:35,792 [main] INFO com.base_class.Library - Browser Launched
+2020-09-29 16:29:36,622 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 16:29:37,460 [main] INFO com.base_class.Library - Money added successfully
+2020-09-29 16:32:16,414 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 16:32:23,690 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 16:32:28,576 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 16:32:28,577 [main] INFO com.base_class.Library - Browser Launched
+2020-09-29 16:32:29,293 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 16:32:30,340 [main] INFO com.base_class.Library - Money added successfully
+2020-09-29 16:39:52,717 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 16:40:00,489 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 16:40:04,868 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 16:40:04,870 [main] INFO com.base_class.Library - Browser Launched
+2020-09-29 16:40:05,483 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 16:40:06,222 [main] INFO com.base_class.Library - Money added successfully
+2020-09-29 16:51:45,981 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 16:51:52,703 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 16:52:00,206 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 16:52:00,207 [main] INFO com.base_class.Library - Browser Launched
+2020-09-29 16:52:01,103 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 16:52:02,231 [main] INFO com.base_class.Library - Money added successfully
+2020-09-29 16:54:53,888 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 16:55:00,864 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 16:55:05,053 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 16:55:05,054 [main] INFO com.base_class.Library - Browser Launched
+2020-09-29 16:55:05,698 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 16:55:06,671 [main] INFO com.base_class.Library - Money added successfully
+2020-09-29 16:55:57,484 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 16:56:06,059 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 16:56:10,326 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 16:56:10,326 [main] INFO com.base_class.Library - Browser Launched
+2020-09-29 16:56:11,025 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 16:56:11,863 [main] INFO com.base_class.Library - Money added successfully
+2020-09-29 17:00:07,567 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 17:00:18,576 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 17:00:24,012 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 17:00:24,013 [main] INFO com.base_class.Library - Browser Launched
+2020-09-29 17:00:24,786 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 17:00:25,705 [main] INFO com.base_class.Library - Money added successfully
+2020-09-29 19:38:42,103 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 19:39:00,629 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 19:39:11,080 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 19:39:11,081 [main] INFO com.base_class.Library - browser launched
+2020-09-29 19:39:11,912 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 19:39:11,916 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 19:39:12,448 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 22:30:35,687 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:30:47,652 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:30:55,566 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:30:55,566 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:30:56,348 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:30:56,644 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:31:01,520 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:31:06,686 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:31:06,688 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:31:07,167 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:31:07,170 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 22:31:07,688 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 22:35:40,933 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:35:48,805 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:35:55,309 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:35:55,310 [main] INFO com.base_class.Library - Browser Launched
+2020-09-29 22:35:56,149 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:35:57,403 [main] INFO com.base_class.Library - Money added successfully
+2020-09-29 22:35:59,363 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-29 22:35:59,365 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 22:36:33,878 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:36:39,336 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:36:44,691 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:36:44,691 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:36:45,282 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:36:45,364 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:36:49,355 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:36:58,396 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:36:58,396 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:36:58,988 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:36:58,991 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 22:36:59,502 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 22:39:51,827 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:39:57,011 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:40:01,687 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:40:01,688 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:40:02,293 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:40:02,610 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-29 22:40:02,873 [main] INFO com.base_class.Library - Details entered
+2020-09-29 22:40:02,993 [main] INFO com.base_class.Library - Submited the details
+2020-09-29 22:40:02,997 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-29 22:40:03,237 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:40:07,334 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:40:12,232 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:40:12,233 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:40:12,749 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:40:12,751 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 22:40:13,336 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 22:41:56,198 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:42:01,946 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:42:06,697 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:42:06,699 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:42:07,308 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:42:07,657 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-29 22:42:07,924 [main] INFO com.base_class.Library - Details entered
+2020-09-29 22:42:08,047 [main] INFO com.base_class.Library - Submited the details
+2020-09-29 22:42:08,051 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-29 22:42:08,179 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:42:12,269 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:42:17,474 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:42:17,474 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:42:18,005 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:42:18,007 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 22:42:18,477 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 22:43:41,787 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:43:47,320 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:43:52,830 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:43:52,831 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:43:53,412 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:43:53,683 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-29 22:43:54,014 [main] INFO com.base_class.Library - Details entered
+2020-09-29 22:43:54,144 [main] INFO com.base_class.Library - Submited the details
+2020-09-29 22:43:54,148 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-29 22:43:54,358 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:43:58,636 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:44:03,829 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:44:03,830 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:44:04,322 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:44:04,324 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 22:44:04,926 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 22:51:52,269 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:51:57,965 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:52:30,410 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:52:34,224 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:52:42,176 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:52:42,177 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:52:42,987 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:52:42,989 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 22:52:43,581 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 22:53:45,230 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:53:51,496 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:53:58,435 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:53:58,436 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:53:59,142 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:53:59,425 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-29 22:53:59,713 [main] INFO com.base_class.Library - Details entered
+2020-09-29 22:53:59,828 [main] INFO com.base_class.Library - Submited the details
+2020-09-29 22:53:59,831 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-29 22:54:00,158 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 22:54:04,337 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 22:54:09,320 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 22:54:09,322 [main] INFO com.base_class.Library - browser launched
+2020-09-29 22:54:09,895 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 22:54:09,896 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 22:54:10,395 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:03:55,924 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:04:02,994 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:04:08,905 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:04:08,906 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:04:09,501 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:04:09,503 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:18:29,972 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:18:35,197 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:18:40,355 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:18:40,356 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:18:40,937 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:18:41,196 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-29 23:18:41,474 [main] INFO com.base_class.Library - Details entered
+2020-09-29 23:18:41,601 [main] INFO com.base_class.Library - Submited the details
+2020-09-29 23:18:41,608 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-29 23:18:41,830 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:18:46,260 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:18:55,688 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:18:55,689 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:18:56,306 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:18:56,309 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:18:56,894 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:18:56,920 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:19:01,832 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:19:08,007 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:19:08,007 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:19:08,570 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:19:08,571 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:19:08,875 [main] INFO com.base_class.Library - Selected view balance option
+2020-09-29 23:19:09,088 [main] INFO com.base_class.Library - AccountId entered
+2020-09-29 23:19:09,273 [main] INFO com.base_class.Library - Submit the details
+2020-09-29 23:19:09,275 [main] INFO com.base_class.Library - View Balance option is failed
+2020-09-29 23:19:10,685 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-29 23:19:10,687 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:21:12,604 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:21:18,398 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:21:23,942 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:21:23,942 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:21:24,593 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:21:24,864 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-29 23:21:25,156 [main] INFO com.base_class.Library - Details entered
+2020-09-29 23:21:25,338 [main] INFO com.base_class.Library - Submited the details
+2020-09-29 23:21:25,342 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-29 23:21:25,619 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:21:29,931 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:21:35,640 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:21:35,641 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:21:36,293 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:21:36,295 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:21:36,840 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:21:36,866 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:21:41,343 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:22:57,291 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:23:02,887 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:23:10,836 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:23:10,838 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:23:11,511 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:23:11,923 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-29 23:23:12,215 [main] INFO com.base_class.Library - Details entered
+2020-09-29 23:23:12,377 [main] INFO com.base_class.Library - Submited the details
+2020-09-29 23:23:12,379 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-29 23:23:12,555 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:23:16,685 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:23:49,003 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:23:53,445 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:23:58,153 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:23:58,153 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:23:58,628 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:23:58,630 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:23:58,943 [main] INFO com.base_class.Library - Selected view balance option
+2020-09-29 23:23:59,141 [main] INFO com.base_class.Library - AccountId entered
+2020-09-29 23:23:59,268 [main] INFO com.base_class.Library - Submit the details
+2020-09-29 23:23:59,271 [main] INFO com.base_class.Library - View Balance option is failed
+2020-09-29 23:23:59,772 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:27:25,183 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:27:31,202 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:27:38,533 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:27:38,534 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:27:39,138 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:27:39,139 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:39:41,415 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:39:46,724 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:39:50,303 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:39:50,303 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:39:50,883 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:39:50,883 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:42:29,685 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:42:35,102 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:42:39,309 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:42:39,310 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:42:39,900 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:42:39,902 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:46:53,775 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:46:59,765 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:47:08,990 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:47:08,993 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:47:09,639 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:47:09,844 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-29 23:47:10,114 [main] INFO com.base_class.Library - Details entered
+2020-09-29 23:47:10,233 [main] INFO com.base_class.Library - Submited the details
+2020-09-29 23:47:10,237 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-29 23:47:10,362 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:47:14,330 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:47:19,577 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:47:19,578 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:47:20,143 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:47:20,146 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:47:20,654 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:47:20,687 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:47:25,589 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:47:30,220 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:47:30,222 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:47:30,856 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:47:30,859 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:47:32,714 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-29 23:47:32,715 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:47:32,728 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:47:36,689 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:47:41,399 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:47:41,399 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:47:42,030 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:47:42,030 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:47:43,356 [main] INFO com.base_class.Library - Transfer Money failed
+2020-09-29 23:47:46,238 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-29 23:47:46,239 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:47:46,272 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:47:50,203 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:47:58,219 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:47:58,219 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:47:59,053 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:47:59,055 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:47:59,419 [main] INFO com.base_class.Library - Selected view balance option
+2020-09-29 23:47:59,593 [main] INFO com.base_class.Library - AccountId entered
+2020-09-29 23:47:59,740 [main] INFO com.base_class.Library - Submit the details
+2020-09-29 23:47:59,743 [main] INFO com.base_class.Library - View Balance option is failed
+2020-09-29 23:48:00,169 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:49:11,054 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:49:16,469 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:49:24,102 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:49:24,104 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:49:24,759 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:49:25,169 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-29 23:49:25,510 [main] INFO com.base_class.Library - Details entered
+2020-09-29 23:49:25,672 [main] INFO com.base_class.Library - Submited the details
+2020-09-29 23:49:25,672 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-29 23:49:25,950 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:49:30,112 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:49:36,452 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:49:36,453 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:49:36,990 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:49:36,994 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:49:37,554 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:49:37,582 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:49:42,039 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:49:47,360 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:49:47,360 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:49:47,942 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:49:47,945 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:49:48,792 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:49:48,812 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:49:53,191 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:49:59,334 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:49:59,334 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:50:00,087 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:50:00,089 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:50:01,727 [main] INFO com.base_class.Library - Transfer Money failed
+2020-09-29 23:50:01,975 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:50:06,226 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:56:09,166 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:56:14,730 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:56:27,596 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:56:27,597 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:56:28,155 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:56:28,452 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-29 23:56:28,812 [main] INFO com.base_class.Library - Details entered
+2020-09-29 23:56:28,934 [main] INFO com.base_class.Library - Submited the details
+2020-09-29 23:56:28,938 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-29 23:56:29,100 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:56:33,081 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:56:37,736 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:56:37,737 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:56:38,358 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:56:38,362 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:56:38,870 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:56:38,891 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:56:43,091 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:56:55,572 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:56:55,573 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:56:56,131 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:56:56,132 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:56:57,287 [main] INFO com.base_class.Library - Closing Browser
+2020-09-29 23:56:57,321 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:57:01,687 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:57:07,938 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:57:07,938 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:57:08,512 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:57:08,515 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:57:09,399 [main] INFO com.base_class.Library - Transfer Money failed
+2020-09-29 23:57:09,482 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-29 23:57:13,618 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-29 23:57:20,290 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-29 23:57:20,293 [main] INFO com.base_class.Library - browser launched
+2020-09-29 23:57:20,986 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-29 23:57:20,987 [main] INFO com.base_class.Library - Error while logging In
+2020-09-29 23:57:21,329 [main] INFO com.base_class.Library - Selected view balance option
+2020-09-29 23:57:21,483 [main] INFO com.base_class.Library - AccountId entered
+2020-09-29 23:57:21,651 [main] INFO com.base_class.Library - Submit the details
+2020-09-29 23:57:21,652 [main] INFO com.base_class.Library - View Balance option is failed
+2020-09-29 23:57:23,200 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:00:09,503 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:00:14,870 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:00:20,375 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:00:20,378 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:00:20,975 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:00:21,297 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-30 00:00:21,573 [main] INFO com.base_class.Library - Details entered
+2020-09-30 00:00:21,679 [main] INFO com.base_class.Library - Submited the details
+2020-09-30 00:00:21,684 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-30 00:00:21,919 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:00:26,749 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:00:41,845 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:00:41,847 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:00:42,451 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:00:42,454 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:00:43,900 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-30 00:00:43,906 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:00:43,949 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:00:47,739 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:01:20,007 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:01:24,033 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:01:28,906 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:01:28,906 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:01:29,428 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:01:29,431 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:01:30,452 [main] INFO com.base_class.Library - Transfer Money failed
+2020-09-30 00:01:30,544 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:01:36,100 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:01:58,345 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:01:58,346 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:01:58,956 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:01:58,957 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:01:59,208 [main] INFO com.base_class.Library - Selected view balance option
+2020-09-30 00:01:59,347 [main] INFO com.base_class.Library - AccountId entered
+2020-09-30 00:01:59,464 [main] INFO com.base_class.Library - Submit the details
+2020-09-30 00:01:59,467 [main] INFO com.base_class.Library - View Balance option is failed
+2020-09-30 00:02:00,166 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:04:04,813 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:04:10,562 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:04:19,435 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:04:19,437 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:04:20,161 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:04:20,410 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-30 00:04:20,659 [main] INFO com.base_class.Library - Details entered
+2020-09-30 00:04:20,812 [main] INFO com.base_class.Library - Submited the details
+2020-09-30 00:04:20,817 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-30 00:04:21,018 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:04:24,930 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:04:30,262 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:04:30,262 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:04:30,800 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:04:30,802 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:04:32,204 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-30 00:04:32,208 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:04:32,252 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:04:35,980 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:04:44,243 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:04:44,243 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:04:44,759 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:04:44,762 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:04:45,765 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:04:45,784 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:04:49,913 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:04:54,834 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:04:54,834 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:04:55,869 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:04:55,873 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:04:56,844 [main] INFO com.base_class.Library - Transfer Money failed
+2020-09-30 00:04:57,295 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:05:02,157 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:05:07,670 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:05:07,671 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:05:08,221 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:05:08,225 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:05:08,462 [main] INFO com.base_class.Library - Selected view balance option
+2020-09-30 00:05:08,620 [main] INFO com.base_class.Library - AccountId entered
+2020-09-30 00:05:08,735 [main] INFO com.base_class.Library - Submit the details
+2020-09-30 00:05:08,737 [main] INFO com.base_class.Library - View Balance option is failed
+2020-09-30 00:05:09,382 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:13:06,464 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:13:12,253 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:13:18,640 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:13:18,642 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:13:19,237 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:13:19,495 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-30 00:13:19,744 [main] INFO com.base_class.Library - Details entered
+2020-09-30 00:13:20,257 [main] INFO com.base_class.Library - Submited the details
+2020-09-30 00:13:20,262 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-30 00:13:21,104 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-30 00:13:21,106 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:13:21,170 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:13:25,020 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:13:29,860 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:13:29,864 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:13:30,561 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:13:30,565 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:13:31,706 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-30 00:13:31,707 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:13:31,757 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:13:35,420 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:13:40,358 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:13:40,359 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:13:40,944 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:13:40,947 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:13:41,829 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:13:41,853 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:13:45,950 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:13:51,129 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:13:51,134 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:13:51,676 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:13:51,679 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:13:52,775 [main] INFO com.base_class.Library - Transfer Money failed
+2020-09-30 00:13:53,583 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-30 00:13:53,584 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:13:53,606 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:13:57,516 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:16:24,250 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:16:30,342 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:16:36,934 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:16:36,934 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:16:37,595 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:16:37,844 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-30 00:16:38,116 [main] INFO com.base_class.Library - Details entered
+2020-09-30 00:16:38,739 [main] INFO com.base_class.Library - Submited the details
+2020-09-30 00:16:38,744 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-30 00:16:39,584 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-30 00:16:39,585 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:16:39,619 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:16:43,556 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:17:15,928 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:17:19,793 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:17:26,287 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:17:26,289 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:17:26,948 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:17:26,950 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:17:32,662 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:17:32,687 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:17:36,836 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:17:42,036 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:17:42,036 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:17:42,551 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:17:42,553 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:17:43,907 [main] INFO com.base_class.Library - Transfer Money failed
+2020-09-30 00:17:44,911 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-30 00:17:44,913 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:17:44,931 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:17:49,110 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:24:49,225 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:24:54,956 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:25:00,387 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:25:00,387 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:25:01,078 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:25:01,349 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-30 00:25:01,650 [main] INFO com.base_class.Library - Details entered
+2020-09-30 00:25:02,251 [main] INFO com.base_class.Library - Submited the details
+2020-09-30 00:25:02,258 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-30 00:25:02,429 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:25:06,831 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:25:12,355 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:25:12,355 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:25:13,026 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:25:13,029 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:25:14,506 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-30 00:25:14,512 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:25:14,540 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:25:18,567 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:25:26,440 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:25:26,441 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:25:27,180 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:25:27,183 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:25:28,476 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:25:28,490 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:25:32,379 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:25:43,044 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:25:43,045 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:25:43,836 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:25:43,839 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:25:45,302 [main] INFO com.base_class.Library - Transfer Money failed
+2020-09-30 00:25:46,679 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-30 00:25:46,679 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:25:46,694 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:25:50,717 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:25:54,947 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:25:54,948 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:25:55,522 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:25:55,524 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:25:55,793 [main] INFO com.base_class.Library - Selected view balance option
+2020-09-30 00:25:55,962 [main] INFO com.base_class.Library - AccountId entered
+2020-09-30 00:25:56,084 [main] INFO com.base_class.Library - Submit the details
+2020-09-30 00:25:56,087 [main] INFO com.base_class.Library - View Balance option is failed
+2020-09-30 00:25:56,914 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:27:15,742 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:27:21,445 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:27:27,131 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:27:27,132 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:27:27,839 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:27:28,148 [main] INFO com.base_class.Library - Selected Add Money Option
+2020-09-30 00:27:28,420 [main] INFO com.base_class.Library - Details entered
+2020-09-30 00:27:28,993 [main] INFO com.base_class.Library - Submited the details
+2020-09-30 00:27:28,998 [main] INFO com.base_class.Library - Add Money Failed
+2020-09-30 00:27:29,844 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-30 00:27:29,846 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:27:29,926 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:27:33,496 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:27:57,031 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:27:57,034 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:27:57,584 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:27:57,590 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:27:58,895 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-30 00:27:58,899 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:27:58,945 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:28:02,757 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:28:11,189 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:28:11,190 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:28:11,779 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:28:11,781 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:28:16,786 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:28:16,816 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:28:20,685 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:28:25,250 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:28:25,250 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:28:25,897 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:28:25,897 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:28:27,278 [main] INFO com.base_class.Library - Transfer Money failed
+2020-09-30 00:28:28,194 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-30 00:28:28,195 [main] INFO com.base_class.Library - Closing Browser
+2020-09-30 00:28:28,214 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-30 00:28:32,314 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-30 00:28:38,103 [main] INFO com.base_class.Library - Launched the OnlineWallet Application
+2020-09-30 00:28:38,104 [main] INFO com.base_class.Library - browser launched
+2020-09-30 00:28:38,667 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-30 00:28:38,669 [main] INFO com.base_class.Library - Error while logging In
+2020-09-30 00:28:38,916 [main] INFO com.base_class.Library - Selected view balance option
+2020-09-30 00:28:39,089 [main] INFO com.base_class.Library - AccountId entered
+2020-09-30 00:28:39,217 [main] INFO com.base_class.Library - Submit the details
+2020-09-30 00:28:39,220 [main] INFO com.base_class.Library - View Balance option is failed
+2020-09-30 00:28:44,083 [main] INFO com.base_class.Library - Closing Browser
